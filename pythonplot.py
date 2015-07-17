@@ -21,4 +21,4 @@ axes3.plot(data.min(axis=0))
 fig.tight_layout()
 
 matplotlib.pyplot.show(fig)
-
+##my demo edit
